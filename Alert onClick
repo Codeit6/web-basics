@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+    <!--button-->
+    <button onClick="myFunction()">try it</button>
+        <!--javascript-->
+        <script>
+            function myFunction(){
+                alert("rahul sinha")
+            }
+        </script>
+    </body>
+</html>
